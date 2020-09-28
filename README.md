@@ -1,6 +1,11 @@
 # IHC
 
-[toc]
+- [Overview](##overview)
+- [System Requirements](#system-requirements)
+- [Installation Guide](#installation-guide)
+- [How to Run](#how-to-run)
+- [License](#license)
+
 ## Overview
 
 This is a project which analyses both quantitative and spatial features of immune checkpoints. It demonstrates a stable and potent potential to predict prognosis in lung cancers. Moreover, we also proposed a new approach to analyzing conventional IHC via EfficientUnet and ResNet.
