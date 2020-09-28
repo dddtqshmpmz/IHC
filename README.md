@@ -1,6 +1,6 @@
 # IHC
 
-- [Overview](##overview)
+- [Overview](#overview)
 - [System Requirements](#system-requirements)
 - [Installation Guide](#installation-guide)
 - [How to Run](#how-to-run)
